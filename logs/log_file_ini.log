@@ -1,0 +1,3 @@
+2023-08-29 21:08:06,552 : INFO : models.importer : Let us see how we can create multiple CSV files out of one (consider it) BIG CSV File.
+2023-08-29 21:08:06,558 : INFO : models.importer : CSV File generated for female, File Location: \output_dir\female_2023-08-29.csv
+2023-08-29 21:08:06,560 : INFO : models.importer : CSV File generated for male, File Location: \output_dir\male_2023-08-29.csv
